@@ -1,5 +1,3 @@
-![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=nzw9314&show_icons=true&theme=merko)
-
 ### 说明 :
 
 * 只是搬运和同步更新大佬脚本.
@@ -10,36 +8,19 @@
 
 * 更新通知[频道](https://t.me/nzw9314News)
 
-### 全局配置：
+### Loon全局配置：
 
-* [QuantumultX.conf](https://raw.githubusercontent.com/nzw9314/QuantumultX/master/QuantumultX.conf)
+* [Loon.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Loon.conf)
 
 
-### 本地配置：
+### Loon脚本订阅配置：
+* [视频教程](https://youtu.be/F1BEgma4xYA)
 
-* 建立本地文件夹
-目录 iCloud Drive/QuantumultX/Scripts/nzw9314 或者 我的iPhone/QuantumultX/Scripts/nzw9314
+* [Script.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Script.conf) 脚本订阅
 
-* WoringCopy挂载我的[仓库](https://github.com/nzw9314/QuantumultX.git)
+* [Cookie.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Cookie.conf)获取Cookie订阅
 
-* 挂载[视频教程](https://m.youtube.com/watch?t=3s&v=inCQFnDmRLo)
-
-* [Js_local_WorkingCopy.conf](https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Js_local_WorkingCopy.conf) 脚本订阅.
-
-* [Get_Cookie_New.conf](https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Get_Cookie_New.conf) 获取Cookie订阅
-
-* 仅在Cookie获取或失效时启用,不需要时右滑动禁用.
-
-* [Task_Local.conf](https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task_Local.conf) 定时任务配置,目前无法订阅,请手动根据个人需求复制内容及修改时间.
-
-### 远程配置：
-* [视频教程](https://youtu.be/tr5aji82Vks)
-
-* [Js.conf](https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Js.conf) 脚本远程订阅
-
-* [Get_Cookie_Remote.conf](https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Get_Cookie_Remote.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.
-
-* [Task_Remote.conf](https://raw.githubusercontent.com/nzw9314/QuantumultX/master/Task_Remote.conf) 定时任务远程配置,目前无法订阅,请手动根据个人需求复制内容及修改时间
+* [Task.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Task.conf) 定时任务订阅
 
 
 ## 免责声明：
@@ -82,28 +63,3 @@
 * [@Neurogram-R](https://github.com/Neurogram-R)
 
 * [@sazs34](https://github.com/sazs34)
-
-* [@uniqueque](https://github.com/uniqueque)
-
-* [@eHpo](https://github.com/eHpo1/Rules)
-
-* [@Sunert](https://github.com/Sunert/Scripts)
-
-* [@songyangzz](https://github.com/songyangzz/QuantumultX.git)
-
-* [@zZPiglet](https://github.com/zZPiglet/Task.git)
-
-* [@Peng-YM](https://github.com/Peng-YM/QuanX)
-
-* [@evilbutcher](https://github.com/evilbutcher/Quantumult_X/tree/master)
-
-* [@lxk0301](https://gitee.com/lxk0301/scripts)
-
-* [@toulanboy](https://github.com/toulanboy/scripts)
-
-* [@lowking](https://github.com/lowking/Scripts)
-
-
-## License
-
-[GPLv3](LICENSE)
