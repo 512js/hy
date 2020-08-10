@@ -4,7 +4,7 @@
 
 ### Loon懒人全局配置：
 
-* [Loon.conf](https://raw.githubusercontent.com/512js/hy/master/Loon.conf)
+* [Loon.conf](https://raw.githubusercontent.com/512js/hy/master/Loon/Loon.conf)
 
 
 ### Loon远程脚本订阅配置：
