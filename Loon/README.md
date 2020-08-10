@@ -1,27 +1,24 @@
 ### 说明 :
 
-* 只是搬运和同步更新大佬脚本.
+* 搬运大佬脚本.
 
-* 不负责维护脚本.
-
-* 只测试自用脚本，其他大部分脚本未测试可用性.
-
-* 更新通知[频道](https://t.me/nzw9314News)
-
-### Loon全局配置：
+### Loon懒人全局配置：
 
 * [Loon.conf](https://raw.githubusercontent.com/512js/hy/master/Loon.conf)
 
 
-### Loon脚本订阅配置：
+### Loon远程脚本订阅配置：
 * [视频教程](https://youtu.be/F1BEgma4xYA)
 
+* 用于request或response数据重写
 * [Script.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Script.conf) 脚本订阅9314
 * [Script.conf](https://raw.githubusercontent.com/512js/hy/master/Loon/Script.conf) 脚本订阅
 
+* 用于获取api权限所需Cookie数据
 * [Cookie.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Cookie.conf)获取Cookie订阅9314
 * [Cookie.conf](https://raw.githubusercontent.com/512js/hy/master/Loon/Cookie.conf)获取Cookie订阅
 
+* 定时任务脚本
 * [Task.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Task.conf) 定时任务订阅9314
 * [Task.conf](https://raw.githubusercontent.com/512js/hy/master/Loon/Task.conf) 定时任务订阅
 
