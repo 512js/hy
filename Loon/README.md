@@ -16,12 +16,12 @@
 * [Script.conf](https://raw.githubusercontent.com/512js/hy/master/Loon/Script.conf) 脚本订阅
 
 
-* 用于获取api权限所需Cookie数据
+用于获取api权限所需Cookie数据
 * [Cookie.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Cookie.conf)获取Cookie订阅9314
 * [Cookie.conf](https://raw.githubusercontent.com/512js/hy/master/Loon/Cookie.conf)获取Cookie订阅
 
 
-* 定时任务脚本
+定时任务脚本
 * [Task.conf](https://raw.githubusercontent.com/nzw9314/Loon/master/Task.conf) 定时任务订阅9314
 * [Task.conf](https://raw.githubusercontent.com/512js/hy/master/Loon/Task.conf) 定时任务订阅
 
