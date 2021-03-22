@@ -4,6 +4,6 @@
 * [shadowrocket_diy.conf](https://raw.githubusercontent.com/512js/hy/master/Shadowrocket/shadowrocket_diy.conf)
 
 * 烧烤哥小火箭配置
-* [Shadowrocket.conf](https://raw.githubusercontent.com/Tartarus2014/For-own-use/master/Shadowrocket/Shadowrocket.conf) 
+* [Shadowrocket.conf](https://raw.githubusercontent.com/Tartarus2014/Shadowrocket-Script/main/Shadowrocket.conf) 
 * 解锁网易云音乐：
 * [NeteaseMusic.conf](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/NeteaseMusic.conf)
